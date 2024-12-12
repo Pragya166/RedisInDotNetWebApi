@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VT\\source\\repos\\RedisCachingWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\Teams\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541523C4-97FD-4FDA-B414-D6E2A15F7F8B}|RedisCachingWebAPI\\RedisCachingWebAPI.csproj|c:\\users\\vt\\source\\repos\\rediscachingwebapi\\rediscachingwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{541523C4-97FD-4FDA-B414-D6E2A15F7F8B}|RedisCachingWebAPI\\RedisCachingWebAPI.csproj|solutionrelative:rediscachingwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541523C4-97FD-4FDA-B414-D6E2A15F7F8B}|RedisCachingWebAPI\\RedisCachingWebAPI.csproj|c:\\users\\vt\\source\\repos\\rediscachingwebapi\\rediscachingwebapi\\controllers\\driverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{541523C4-97FD-4FDA-B414-D6E2A15F7F8B}|RedisCachingWebAPI\\RedisCachingWebAPI.csproj|solutionrelative:rediscachingwebapi\\controllers\\driverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541523C4-97FD-4FDA-B414-D6E2A15F7F8B}|RedisCachingWebAPI\\RedisCachingWebAPI.csproj|c:\\users\\vt\\source\\repos\\rediscachingwebapi\\rediscachingwebapi\\services\\cacheservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{541523C4-97FD-4FDA-B414-D6E2A15F7F8B}|RedisCachingWebAPI\\RedisCachingWebAPI.csproj|solutionrelative:rediscachingwebapi\\services\\cacheservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541523C4-97FD-4FDA-B414-D6E2A15F7F8B}|RedisCachingWebAPI\\RedisCachingWebAPI.csproj|c:\\users\\vt\\source\\repos\\rediscachingwebapi\\rediscachingwebapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{541523C4-97FD-4FDA-B414-D6E2A15F7F8B}|RedisCachingWebAPI\\RedisCachingWebAPI.csproj|solutionrelative:rediscachingwebapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541523C4-97FD-4FDA-B414-D6E2A15F7F8B}|RedisCachingWebAPI\\RedisCachingWebAPI.csproj|c:\\users\\vt\\source\\repos\\rediscachingwebapi\\rediscachingwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{541523C4-97FD-4FDA-B414-D6E2A15F7F8B}|RedisCachingWebAPI\\RedisCachingWebAPI.csproj|solutionrelative:rediscachingwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541523C4-97FD-4FDA-B414-D6E2A15F7F8B}|RedisCachingWebAPI\\RedisCachingWebAPI.csproj|c:\\users\\vt\\source\\repos\\rediscachingwebapi\\rediscachingwebapi\\services\\icacheservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{541523C4-97FD-4FDA-B414-D6E2A15F7F8B}|RedisCachingWebAPI\\RedisCachingWebAPI.csproj|solutionrelative:rediscachingwebapi\\services\\icacheservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541523C4-97FD-4FDA-B414-D6E2A15F7F8B}|RedisCachingWebAPI\\RedisCachingWebAPI.csproj|c:\\users\\vt\\source\\repos\\rediscachingwebapi\\rediscachingwebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{541523C4-97FD-4FDA-B414-D6E2A15F7F8B}|RedisCachingWebAPI\\RedisCachingWebAPI.csproj|solutionrelative:rediscachingwebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541523C4-97FD-4FDA-B414-D6E2A15F7F8B}|RedisCachingWebAPI\\RedisCachingWebAPI.csproj|c:\\users\\vt\\source\\repos\\rediscachingwebapi\\rediscachingwebapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{541523C4-97FD-4FDA-B414-D6E2A15F7F8B}|RedisCachingWebAPI\\RedisCachingWebAPI.csproj|solutionrelative:rediscachingwebapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\VT\\source\\repos\\RedisCachingWebAPI\\RedisCachingWebAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "RedisCachingWebAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\VT\\source\\repos\\RedisCachingWebAPI\\RedisCachingWebAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "RedisCachingWebAPI\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T04:36:41.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\VT\\source\\repos\\RedisCachingWebAPI\\RedisCachingWebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "RedisCachingWebAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\VT\\source\\repos\\RedisCachingWebAPI\\RedisCachingWebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "RedisCachingWebAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T04:00:37.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DriversController.cs",
+              "DocumentMoniker": "C:\\Users\\VT\\source\\repos\\RedisCachingWebAPI\\RedisCachingWebAPI\\Controllers\\DriversController.cs",
+              "RelativeDocumentMoniker": "RedisCachingWebAPI\\Controllers\\DriversController.cs",
+              "ToolTip": "C:\\Users\\VT\\source\\repos\\RedisCachingWebAPI\\RedisCachingWebAPI\\Controllers\\DriversController.cs",
+              "RelativeToolTip": "RedisCachingWebAPI\\Controllers\\DriversController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T04:00:30.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VT\\source\\repos\\RedisCachingWebAPI\\RedisCachingWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "RedisCachingWebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\VT\\source\\repos\\RedisCachingWebAPI\\RedisCachingWebAPI\\Program.cs",
+              "RelativeToolTip": "RedisCachingWebAPI\\Program.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAAA0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T03:57:13.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Downloads\\Teams\\Program.cs",
+              "ToolTip": "D:\\Downloads\\Teams\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T03:44:18.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CacheServices.cs",
+              "DocumentMoniker": "C:\\Users\\VT\\source\\repos\\RedisCachingWebAPI\\RedisCachingWebAPI\\Services\\CacheServices.cs",
+              "RelativeDocumentMoniker": "RedisCachingWebAPI\\Services\\CacheServices.cs",
+              "ToolTip": "C:\\Users\\VT\\source\\repos\\RedisCachingWebAPI\\RedisCachingWebAPI\\Services\\CacheServices.cs",
+              "RelativeToolTip": "RedisCachingWebAPI\\Services\\CacheServices.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADwvxQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T03:11:54.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICacheServices.cs",
+              "DocumentMoniker": "C:\\Users\\VT\\source\\repos\\RedisCachingWebAPI\\RedisCachingWebAPI\\Services\\ICacheServices.cs",
+              "RelativeDocumentMoniker": "RedisCachingWebAPI\\Services\\ICacheServices.cs",
+              "ToolTip": "C:\\Users\\VT\\source\\repos\\RedisCachingWebAPI\\RedisCachingWebAPI\\Services\\ICacheServices.cs",
+              "RelativeToolTip": "RedisCachingWebAPI\\Services\\ICacheServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T03:02:28.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\VT\\source\\repos\\RedisCachingWebAPI\\RedisCachingWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "RedisCachingWebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\VT\\source\\repos\\RedisCachingWebAPI\\RedisCachingWebAPI\\appsettings.json",
+              "RelativeToolTip": "RedisCachingWebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-11T09:45:51.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\VT\\source\\repos\\RedisCachingWebAPI\\RedisCachingWebAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "RedisCachingWebAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\VT\\source\\repos\\RedisCachingWebAPI\\RedisCachingWebAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "RedisCachingWebAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T09:09:24.14Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
